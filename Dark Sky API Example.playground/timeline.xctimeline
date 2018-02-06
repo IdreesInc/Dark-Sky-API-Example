@@ -2,5 +2,10 @@
 <Timeline
    version = "3.0">
    <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/idrees/Documents/Programs/Swift/Dark%20Sky%20API%20Example/Dark%20Sky%20API%20Example.playground#CharacterRangeLen=657&amp;CharacterRangeLoc=1190&amp;EndingColumnNumber=12&amp;EndingLineNumber=45&amp;StartingColumnNumber=10&amp;StartingLineNumber=30&amp;Timestamp=539647571.624248"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
    </TimelineItems>
 </Timeline>
