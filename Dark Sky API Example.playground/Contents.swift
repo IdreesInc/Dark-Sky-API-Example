@@ -1,7 +1,8 @@
 /*
  Created by Idrees Hassan, hope you enjoy!
- Website: http://idreesinc.com
- GitHub: https://github.com/IdreesInc
+ GitHub Repository: https://github.com/IdreesInc/Dark-Sky-API-Example
+ Personal Website: http://idreesinc.com
+ License: MIT
  */
 
 import UIKit
